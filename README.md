@@ -1,2 +1,2 @@
 # Zero-Two
-[website](franklinjunction.com)
+[website](https://franklinjunction.com/)
